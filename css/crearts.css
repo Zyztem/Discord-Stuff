@@ -54,7 +54,7 @@
 /*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/discord/blurple.css"); /**/
 
 /* ⭕ Revamp Edition */
-@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/discord/revamp.css"); /*
+/* @import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/discord/revamp.css"); /* */
 
 /* ╔══════════════════════════╦═════════════════════════════════╗ */
 /* ║ 1.1 Palette              ║ CreArts                         ║ */
@@ -97,7 +97,7 @@
 /*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/charcoal.css"); /**/
 
 /* ⭕ Milkshake Edition */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/milkshake.css"); /**/
+/* @import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/milkshake.css"); /* */
 
 /* ╔══════════════════════════╦═════════════════════════════════╗ */
 /* ║ 1.1 Palette              ║ Community                       ║ */
@@ -117,7 +117,7 @@
 /* ╚══════════════════════════╩═════════════════════════════════╝ */
 
 /* ⭕ The Legend of Zelda */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/games/zelda.css"); /**/
+@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/games/zelda.css"); /*
 
 /* ╔══════════════════════════╦═════════════════════════════════╗ */
 /* ║ 1.1 Palette              ║ Public                          ║ */
@@ -163,23 +163,23 @@
 /* ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝ */
 
 /* ⭕ Wide Square */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/skins/shape/wide/square.css"); /**/
+/* @import url("https://crearts-community.github.io/CreArts-Discord/skins/shape/wide/square.css"); /* */
 
 /* ⭕ Wide Round */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/skins/shape/wide/round.css"); /**/
+/* @import url("https://crearts-community.github.io/CreArts-Discord/skins/shape/wide/round.css"); /* */
 
 /* ╔══════════════════════════╦═════════════════════════════════╗ */
 /* ║ 1.2 Shape                ║ Slim                            ║ */
 /* ╚══════════════════════════╩═════════════════════════════════╝ */
 
 /* ⭕ Slim Squircle */
-/* @import url("https://crearts-community.github.io/CreArts-Discord/skins/shape/slim/squircle.css"); /* */
+@import url("https://crearts-community.github.io/CreArts-Discord/skins/shape/slim/squircle.css"); /*
 
 /* ⭕ Slim Square */
 /*@import url("https://crearts-community.github.io/CreArts-Discord/skins/shape/slim/square.css"); /**/
 
 /* ⭕ Slim Round */
-@import url("https://crearts-community.github.io/CreArts-Discord/skins/shape/slim/round.css"); /*
+/*@import url("https://crearts-community.github.io/CreArts-Discord/skins/shape/slim/round.css"); /**/
 
 /* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */
 /* ║ 1.3 Alignment            ║ Left                                                                                    ║ */
@@ -188,7 +188,7 @@
 /* ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝ */
 
 /* ✅ Combined */
-/* @import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/left/combined.css"); /**/
+/* @import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/left/combined.css");  */
 
 /* ⭕ Divided */
 /*@import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/left/divided.css"); /**/
@@ -220,14 +220,14 @@
 /*@import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/top/default.css"); /**/
 
 /* ⭕ Buttons */
-/* @import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/top/buttons.css"); /**/
+/* @import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/top/buttons.css"); /* */
 
 /* ╔══════════════════════════╦═════════════════════════════════╗ */
 /* ║ 1.3 Alignment            ║ Bottom                          ║ */
 /* ╚══════════════════════════╩═════════════════════════════════╝ */
 
 /* ⭕ Default */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/bottom/default.css"); /**/
+/* @import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/bottom/default.css"); /* */
 
 /* ⭕ Buttons */
 @import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/bottom/buttons.css"); /*
@@ -278,10 +278,10 @@
 /* ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝ */
 
 /* ⭕ Move Explore Button down. (Working with: Default & Buttons; Not Working with: Combined & Divided) */
-@import url("https://crearts-community.github.io/CreArts-Discord/modules/move/button/explore.css"); /*
+/* @import url("https://crearts-community.github.io/CreArts-Discord/modules/move/button/explore.css"); /* */
 
 /* ⭕ Move Add Server Button down. (Working with: Default & Buttons; Not Working with: Combined & Divided) */
-@import url("https://crearts-community.github.io/CreArts-Discord/modules/move/button/add.css"); /*
+/* @import url("https://crearts-community.github.io/CreArts-Discord/modules/move/button/add.css"); /* */
 
 /* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */
 /* ║ 1.7 Remove               ║                                                                                         ║ */
